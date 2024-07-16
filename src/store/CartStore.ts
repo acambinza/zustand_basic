@@ -6,7 +6,7 @@ const initialProdutcs = [
         id: 101,
         name: "Smartphone X",
         description: "Smartphone de última geração com tela AMOLED de 6.5 polegadas, câmera tripla de 48MP e 128GB de armazenamento interno.",
-        price: 3299.00
+        price: 30299.00
       },
       {
         id: 102,

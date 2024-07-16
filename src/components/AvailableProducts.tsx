@@ -9,7 +9,7 @@ export const AvailableProducts = () => {
             {availableItems.map((item) => (
                 <li key={item.id}>
                     <span key={item.id}>
-                    {item.name} | {item.description}
+                    {item.name} | {item.price} - 
                     </span>
                     <button onClick={() => addToCard(item)}>Add to Cart</button>
                 </li>
